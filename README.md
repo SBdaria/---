@@ -7,7 +7,7 @@
 Столбец с ценой может называться "цена" или "розница".
 Столбец с весом имеет название "фасовка", "масса" или "вес" и всегда указывается в килограммах.
 <img width="207" alt="image" src="https://github.com/user-attachments/assets/1c03f0f4-fd25-4d6b-b1e8-efcd1887b291" />
-
+***
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/d93a7f8a-defa-4efb-8c72-5c982e0f2a02" />
 
 
